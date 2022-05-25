@@ -2,7 +2,6 @@
 .adaptivSlayder {
     position: relative;
     max-width: 700px;
-    height: 392px;
     margin: 65px auto;
     box-shadow: 0 9px 18px -4px rgba(0, 0, 0, 0.69);
 }
